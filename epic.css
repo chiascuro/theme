@@ -395,11 +395,6 @@ body>div:last-of-type{
 .unreadMentionsIndicatorBottom-BXS58x {
 	bottom: 15px;
 }
-.mention-1f5kbO {
-    background-color: rgba(var(--Primary-Transparency-Color), 0.9);
-    color: transparent;
-    border-radius: 5px;
-}
 .mention-1f5kbO:hover {
     background-color: rgba(var(--Secondary-Transparency-Color), 0.9);
 }
@@ -2094,9 +2089,6 @@ theme-dark .protip-YaFfgO {
 	background: rgba(var(--Primary-Transparency-Color), 0.50);
 	border-color: rgba(var(--Primary-Transparency-Color), 0.50);
 	color: white;
-}
-.bar-30k2ka {
-	height: 34px;
 }
 .noIcon-1a_FrS.icon-3cZ1F_SizeSmall-3aWgx9 {
     line-height: 40px;
