@@ -3258,7 +3258,10 @@ body>div:last-of-type{
 .theme-dark .body-3iLsc4, .theme-dark .body-3ND3kc, .theme-dark .footer-1fjuF6, .headerTop-2y3V6H, .headerNormal-1l1Znk {
     background-color: #111111;
 }
-
+.avatar-22FtUu {
+    border: 6px solid #111111;
+    background-color: #111111;
+}
 .headerTop-2y3V6H {
-    border-bottom: 0px solid var(--background-modifier-accent);
+    border-bottom: 1px solid var(--background-modifier-accent);
 }
