@@ -3255,16 +3255,6 @@ body>div:last-of-type{
 .reaction-1hd86g:hover {
     background-color: rgb(200, 200, 200,0.1);
 }
-.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6, .headerTop-2y3V6H, .headerNormal-1l1Znk, .aboutMeSection-3bipSD {
-    background-color: #111111;
-}
-.avatar-22FtUu {
-    border: 6px solid #111111;
-    background-color: #111111;
-}
-.headerTop-2y3V6H {
-    border-bottom: 1px solid var(--background-modifier-accent);
-}
 .note-3HfJZ5 textarea {
     border-radius: 3px;
 }
