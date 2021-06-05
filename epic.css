@@ -3268,3 +3268,10 @@ body>div:last-of-type{
 .theme-dark .input-cIJ7To:focus {
     background-color: rgba(0,0,0,.7);
 }
+.stageSection-3mAD8V {
+    background: transparent;
+}
+.theme-dark .container-S9SaVf {
+    background: transparent;
+    border: 1px solid var(--background-modifier-accent);
+}
