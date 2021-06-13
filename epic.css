@@ -3275,10 +3275,14 @@ body>div:last-of-type{
     background: transparent;
     border: 1px solid var(--background-modifier-accent);
 }
-.body-r6_QPy, .theme-dark .body-3iLsc4, .headerNormal-1mX3KY, .theme-dark .footer-1fjuF6, .headerTop-2y3V6H, .headerNormal-1l1Znk, .aboutMeSection-3bipSD, .headerTop-2cWpdB, .aboutMeSection---MkQa, .body-3HBlXn, .footer-1N3bR3 {
+.body-r6_QPy, .topSection-y3p-_D, .theme-dark .body-3iLsc4, .headerNormal-1mX3KY, .theme-dark .footer-1fjuF6, .headerTop-2y3V6H, .headerNormal-1l1Znk, .aboutMeSection-3bipSD, .headerTop-2cWpdB, .aboutMeSection---MkQa, .body-3HBlXn, .footer-1N3bR3 {
     background-color: #111111;
 }
 .avatar-37jOim {
     border: 6px solid #111111;
+    background-color: #111111;
+}
+.avatar-AvHqJA {
+    border: 8px solid #111111;
     background-color: #111111;
 }
