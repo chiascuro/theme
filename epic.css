@@ -3293,3 +3293,20 @@ body>div:last-of-type{
     border: 7px solid #050505;
     background: transparent;
 }
+.accountProfileCard-1XCH88, .profileBannerPreview-3_l0Wd, .previewMessage-1ZN7YG, .theme-dark .card-3DjzTQ, .theme-dark .iconMask-3b8GzQ, .descriptionBox-1EKQKL, .featureCard-1RR4Tl, .theme-dark .tierBody-3aUxuc, .theme-dark .tierHeaderLocked-3S508x, .container-_phMUq {
+    background: rgba(0,0,0,.5);
+}
+.avatar-1uQSZT {
+    border: 7px solid #050505;
+    background: transparent;
+}
+.avatarUploaderInner-Oiob_P {
+    border: 6px solid #050505;
+    background-color: var(--background-floating);
+}
+.guildSubscriptionSlots-JPXXvN, .guildHeader-3nh5RK, .cardWrapper-2Min21, .theme-dark .codeRedemptionRedirect-1wVR4b, .theme-dark .input-cIJ7To {
+    background: transparent;
+}
+.header-2mZ9Ov, .titleContainer-2CXtJo {
+    background: #050505;
+}
