@@ -3316,3 +3316,7 @@ body>div:last-of-type{
 .theme-dark .messagesPopoutWrap-1MQ1bW, .container-enaOkj, .messages-3G3erD {
     background: #111111
 }
+.container-3XJ8ns {
+    background: #111111;
+    border: 1px solid var(--background-modifier-accent);
+}
