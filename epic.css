@@ -3320,3 +3320,11 @@ body>div:last-of-type{
     background: #111111;
     border: 1px solid var(--background-modifier-accent);
 }
+.container-3XJ8ns {
+    background: #111111;
+    border: 1px solid var(--background-modifier-accent);
+}
+.container-3hZ-gs, .threadSidebar-1o3BTy {
+    border: 1px solid var(--background-secondary-alt);
+    background: transparent;
+}
