@@ -1,0 +1,20 @@
+/**
+ * @name Dark Theme
+ * @version 9.69
+ * @description dank
+ * @author enn#9634
+ * @source https://github.com/chiascuro/theme
+ * @website https://www.youtube.com/watch?v=LPe-vfJ1jTA&t=16s
+ *//*
+*/
+
+/* import url("https://gitcdn.xyz/repo/chiascuro/theme/main/epic.css"); */
+@import url("https://raw.githack.com/chiascuro/theme/main/epic.css");
+
+
+/*** hide server banner ***/
+
+.scroller-1ox3I2 .content-2a4AW9 > div[style="height: 84px;"] {display: none}
+.animatedContainer-2laTjx {
+    display: none;
+}
