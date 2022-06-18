@@ -3344,6 +3344,23 @@
      border: 1px solid var(--background-secondary-alt);
      border-radius: 5px;
  }
- .folder-241Joy, .circleIconButton-1VxDrg, .expandedFolderBackground-1kSAf6, .activityItem-1Z9CTr, .container-3XgAHv, .container-ZMc96U.themed-Hp1KC_, .uploadArea-2Nu_Vc, .chat-2ZfjoI, .wrapper-1gVUIN {
+ .folder-241Joy, .theme-dark .calendarPicker-sDhzdi .react-datepicker__header, .notice-5OG6bf, .connectionHeader-Ixbb1s, .cardWrapper-1bSePP, .subscriptionsRedirectContainer-zD3U79, .divider-AZrXIA, .searchHeader-1r_ZSh, .container-3YcgdM, .sidebarCard-1Gn1ch, .theme-dark .container-3wLKDe, .mainCard-3KBsBI, .searchResultsWrap-5RVOkx, .circleIconButton-1VxDrg, .expandedFolderBackground-1kSAf6, .activityItem-1Z9CTr, .container-3XgAHv, .container-ZMc96U.themed-Hp1KC_, .uploadArea-2Nu_Vc, .chat-2ZfjoI, .wrapper-1gVUIN {
     background: transparent;
  }
+ .container-2IhveL, .accountList-Wii_T5, .connection-YOVI9j {
+    background: transparent;
+    border: 1px solid var(--background-primary);
+    border-radius: 12px;
+}
+.reaction-102jx9, .reaction-3vwAF2 {
+    background: transparent;
+    border: 1px solid var(--background-primary);
+    border-radius: 8px;
+}
+.channelHeader-DFRX8q, .theme-dark .container-2McqkF, .theme-dark .root-g14mjS, .theme-dark .calendarPicker-sDhzdi .react-datepicker, .theme-dark .calendarPicker-sDhzdi .react-datepicker__header {
+    background: var(--background-floating);
+}
+.guildSubscriptionSlots-1i_C21 {
+    background: transparent;
+    border: 1px solid var(--background-primary);
+}
