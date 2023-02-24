@@ -3373,9 +3373,12 @@
 .channelRow-4X_3fi {
     background: transparent;
 }
-.theme-dark .panel-2ZFCRb, .theme-dark .scroller-WSmht3, .container-1zzFcN, .theme-dark .container-YkUktl, .theme-dark .scroller-3X7KbA, .chatContent-3KubbW, .theme-dark .scrollableContainer-15eg7h, .theme-dark .container-1NXEtd {
+.theme-dark .panel-2ZFCRb, .theme-dark .wrapper-1FP9YQ, .theme-dark .scroller-WSmht3, .container-1zzFcN, .theme-dark .container-YkUktl, .theme-dark .scroller-3X7KbA, .chatContent-3KubbW, .theme-dark .scrollableContainer-15eg7h, .theme-dark .container-1NXEtd {
     background: transparent;
 }
 .emojiPickerInExpressionPicker-2nOwH8 .header-11eigE {
     background: #111111;
+}
+.theme-dark .root-g14mjS {
+    background: rgba(0,0,0,0.1);
 }
