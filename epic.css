@@ -2489,12 +2489,7 @@
  
  .theme-dark .markup-eYLPri pre {
      background: rgba(0, 0, 0, .7);
- }
- 
- .theme-dark .markup-eYLPri code, .theme-dark .markup-eYLPri code.inline {
-     background: rgba(0, 0, 0, .7);
- }
- 
+ } 
  
  .guild-1EfMGQ.unread-qLkInr {
      border-color: black !important;
