@@ -907,12 +907,6 @@
      background: transparent;
      border-color: transparent;
  }
- .theme-dark .markup-eYLPri code, 
- .theme-dark .markup-eYLPri code.inline {
-     background: rgba(var(--Primary-Transparency-Color), .4);
-     border-radius: 3px;
- }
- 
  .theme-dark .hljs-comment,
  .theme-dark .hljs-quote {
    color: #a57a4c;
