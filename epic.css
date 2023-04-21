@@ -3274,16 +3274,10 @@
  .accountProfileCard-lbN7n- {
      background: transparent;
  }
- .avatar-3mTjvZ {
-     border: 7px solid #050505;
-     background: transparent;
- }
+ 
  .accountProfileCard-lbN7n-, .profileBannerPreview-3_l0Wd, .previewMessage-2uxBrA, .theme-dark .card-2TuZPZ, .theme-dark .iconMask-2fMR98, .descriptionBox-1EKQKL, .featureCard-1RR4Tl, .theme-dark .tierBody-1d3UiS, .theme-dark .tierHeaderLocked-30MLlO, .container-3EtAkD {
      background: rgba(0,0,0,.5);
- }
- .avatar-3mTjvZ {
-     border: 7px solid #050505;
-     background: transparent;
+
  }
  .avatarUploaderInner-Oiob_P {
      border: 6px solid #050505;
@@ -3361,7 +3355,7 @@
 .theme-dark .panel-2ZFCRb, .theme-dark .wrapper-1FP9YQ, .theme-dark .scroller-WSmht3, .container-1zzFcN, .theme-dark .container-YkUktl, .theme-dark .scroller-3X7KbA, .chatContent-3KubbW, .theme-dark .scrollableContainer-15eg7h, .theme-dark .container-1NXEtd {
     background: transparent;
 }
-.emojiPickerInExpressionPicker-2nOwH8 .header-11eigE {
+.emojiPickerInExpressionPicker-2nOwH8 .header-11eigE, .emojiPickerHasTabWrapper-LoluYe .header-11eigE {
     background: #111111;
 }
 .theme-dark .root-g14mjS {
