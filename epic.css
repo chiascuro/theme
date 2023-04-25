@@ -3361,3 +3361,6 @@
 .theme-dark .root-g14mjS {
     background: rgba(0,0,0,0.1);
 }
+.tryItOutSection-W9qeGH, .customizationSectionBorder-2RAJep, .customizationSection-IGy2fS.showBorder-2hbqaq {
+    display: none;
+}
